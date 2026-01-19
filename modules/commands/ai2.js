@@ -73,10 +73,10 @@ async function getGroqReply(userID, prompt) {
 // --- MAIN COMMAND ---
 module.exports = {
   config: {
-    name: "juhi",
+    name: "sruti",
     aliases: ["chat", "ai"],
-    description: "Chat with Juhi (Fixed Reply)",
-    usage: "{prefix}juhi <message>",
+    description: "Chat with Sruti (Fixed Reply)",
+    usage: "{prefix}sruti <message>",
     credit: "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
     hasPrefix: false,
     permission: 0,
